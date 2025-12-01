@@ -1,0 +1,6 @@
+# Binary
+/aoc
+
+# Inputs
+/inputs/*
+!/inputs/INPUTS_GO_IN_HERE
